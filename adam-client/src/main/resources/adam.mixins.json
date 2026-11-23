@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.adam.client.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "EntityMixin",
+    "EntityPickMixin",
+    "GameRendererMixin",
+    "MinecraftMixin",
+    "MultiPlayerGameModeMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

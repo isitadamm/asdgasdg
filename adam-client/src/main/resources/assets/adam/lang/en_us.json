@@ -1,0 +1,19 @@
+{
+  "key.category.adam.main": "Adam Client",
+  "key.adam.menu": "Open Adam menu",
+  "key.adam.module.blocks": "Toggle Blocks",
+  "key.adam.module.freecam": "Toggle Freecam",
+  "key.adam.module.fly": "Toggle Fly",
+  "key.adam.module.boatfly": "Toggle Boatfly",
+  "key.adam.module.killaura": "Toggle Kill Aura",
+  "key.adam.module.reach": "Toggle Reach",
+  "key.adam.module.criticals": "Toggle Criticals",
+  "key.adam.module.autoshield": "Toggle Auto Shield",
+  "key.adam.module.hitbox": "Toggle Hitbox Expand",
+  "key.adam.module.autoweapon": "Toggle Auto Weapon",
+  "key.adam.module.friends": "Toggle Friend Protection",
+  "key.adam.module.staffprotection": "Toggle Staff Protection",
+  "key.adam.module.spectatorprotection": "Toggle Spectator Protection",
+  "adam.freecam.enabled": "Freecam enabled",
+  "adam.freecam.disabled": "Freecam disabled"
+}
